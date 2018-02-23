@@ -27,7 +27,7 @@ optional arguments:
 -h, --help				show the help message 
 -n NAME, --name NAME 	optional name to say hello to 	
 --popcorn 				print movie
---countdown = int		prints showtime or snack time depending on integer value
+--countdown = int		prints showtime or snack time depending on negative or positive integer value
 ```
 ## API Usage 
 
